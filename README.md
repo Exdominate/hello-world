@@ -6,8 +6,9 @@ added 3th and 4th lines
   <img src="formula.PNG" alt="Image">
 много<br>
 много<br>
-много<br>
+Scheme<br>
 много<br>
 много<br>
 “екста
 </p>
+<img src="formula.PNG" alt="Image" align="center">
